@@ -49,4 +49,4 @@ The purpose of this system is to help users track and manage their financial act
 
 ## GitHub Repository
 
-(Paste your GitHub link here)
+https://github.com/naeemahmedbsai/Financial-Management-System
