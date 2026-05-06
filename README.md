@@ -45,7 +45,7 @@ The purpose of this system is to help users track and manage their financial act
 
 ## Video Demo
 
-(Paste your YouTube link here)
+https://youtu.be/SkslpubJYUs
 
 ## GitHub Repository
 
